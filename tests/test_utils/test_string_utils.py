@@ -34,7 +34,7 @@ class TestStringSlicer:
 
     def test_slice_with_short_name(self):
         """Tests slice with short name string."""
-        full_name = 'Sadman Salim Nipun'
+        full_name = 'Nipun'
         expected = 'Nipun'
         string_slicer = StringSlicer()
         actual = string_slicer.slice(full_name)
@@ -43,7 +43,7 @@ class TestStringSlicer:
 
     def test_slice_with_long_name(self):
         """Tests slice with long name string."""
-        full_name = 'Sadman Salim Nipun'
+        full_name = 'Nipun'
         expected = 'Nipun'
         string_slicer = StringSlicer()
         actual = string_slicer.slice(full_name)
