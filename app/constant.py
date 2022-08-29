@@ -6,7 +6,7 @@ class Constant:
 
     # website names
     CODEFORCES = 'codeforces'
-    LOGO = 'https://raw.githubusercontent.com/sudiptob2/cf-stats/main/assets/cflogo.svg'
+    LOGO = 'https://raw.githubusercontent.com/nipun333/Cf_stats/main/assets/cflogo.svg'
 
     # API endpoints
     USER_INFO = 'https://codeforces.com/api/user.info?handles={0}'
@@ -29,4 +29,4 @@ class Constant:
     OUTPUT_FOLDER = f'{settings.base_dir}/output'
 
     # Acronym MAX lenght
-    ACC_MAX_LEN = 6
+    ACC_MAX_LEN = 7
