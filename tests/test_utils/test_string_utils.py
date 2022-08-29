@@ -6,8 +6,8 @@ class TestAcronym:
 
     def test_acronymize(self):
         """Tests acronymize with valid parametes."""
-        org_name = 'Patuakhali Sceince and Technology university.'
-        expected = 'PSTU'
+        org_name = 'University of New South Wales'
+        expected = 'UNSW'
         acc_handler = Acronym()
         actual = acc_handler.acronymize(org_name)
         assert expected == actual
@@ -34,8 +34,8 @@ class TestStringSlicer:
 
     def test_slice_with_short_name(self):
         """Tests slice with short name string."""
-        full_name = 'Sudipto Baral'
-        expected = 'Sudipto Baral'
+        full_name = 'Sadman Salim Nipun'
+        expected = 'Sadman Salim Nipun'
         string_slicer = StringSlicer()
         actual = string_slicer.slice(full_name)
 
@@ -43,8 +43,8 @@ class TestStringSlicer:
 
     def test_slice_with_long_name(self):
         """Tests slice with long name string."""
-        full_name = 'Shubham kumar Anand'
-        expected = 'Shubham'
+        full_name = 'Sadman Salim Nipun'
+        expected = 'Nipun'
         string_slicer = StringSlicer()
         actual = string_slicer.slice(full_name)
 
