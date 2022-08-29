@@ -30,7 +30,7 @@ class User:
     def __get_color(cls, rating):
         """Returns the HEX of appropriate color according to the rating."""
         if rating <= 1199:
-            col = 'rgb(0,210,0)'
+            col = 'rgb(210,210,0)'
         elif 1199 < rating <= 1399:
             col = '#43A217'
         elif 1399 < rating <= 1599:
