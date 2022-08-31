@@ -1,4 +1,4 @@
-<br/>
+
 
 ## Codeforces Statistics Visualization
 <br/>
