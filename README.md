@@ -1,3 +1,5 @@
+<br/>
+
 ## Codeforces Statistics Visualization
 <br/>
 <p align= "center"><a href="https://github.com/nipun333/Cf_stats">
