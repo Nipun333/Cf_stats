@@ -9,5 +9,5 @@
 <img src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/max_rating.svg" />
 &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/rating.svg" />
 </a> <p/>
-<br/><br/><br/><br/>  
+<br/><br/>
 <p align= "center"> <b>Please ⭐ this if you like the repository<b/> <p/>
