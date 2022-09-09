@@ -1,6 +1,7 @@
 
 
-## Codeforces Statistics Visualization
+
+## 📈 Codeforces Statistics Visualization
 <br/>
 <p align= "center"><a href="https://github.com/nipun333/Cf_stats">
 <img src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg#gh-dark-mode-only" />
