@@ -13,4 +13,4 @@
 &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/rating.svg" />
 </a> <p/>
 <br/><br/>
-<p align= "center"> <b>Please ⭐ this if you like the repository.<b/> <p/>
+<p align= "center"> <b>Please ⭐ this if you like the repository<b/> <p/>
